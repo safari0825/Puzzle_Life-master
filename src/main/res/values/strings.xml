@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">拼图游戏</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_puzzle_life">拼图游戏</string>
+    <string name="option_title">选项</string>
+    <string name="selectImage">选择图片</string>
+    <string name="start">开始拼图</string>
+    <string name="selectStart">切换开始</string>
+</resources>

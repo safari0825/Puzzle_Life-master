@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/beijing"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+			android:id="@+id/AdLinearLayout"
+            android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+        android:orientation="horizontal" />
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">"
+        <TextView
+            android:id="@+id/time1"
+        	android:layout_weight="1"
+        	android:alpha="200"
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent" >
+        </TextView>
+        <TextView
+            android:id="@+id/step1"
+        	android:layout_weight="1"
+        	android:alpha="200"
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent">
+        </TextView>
+    </LinearLayout>
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+         <ImageButton
+                android:id="@+id/ImageButton0001"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+                 <ImageButton
+                android:id="@+id/ImageButton0002"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+            <ImageButton
+                android:id="@+id/ImageButton0003"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+                 <ImageButton
+                android:id="@+id/ImageButton0004"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+        </LinearLayout>
+         <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+         <ImageButton
+                android:id="@+id/ImageButton0005"                   
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+            <ImageButton
+                android:id="@+id/ImageButton0006"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+                 <ImageButton
+                android:id="@+id/ImageButton0007"                
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+                 <ImageButton
+                android:id="@+id/ImageButton0008"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+        </LinearLayout>
+        <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_weight="1"       
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">     
+            <ImageButton
+                android:id="@+id/ImageButton0009"                
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+            <ImageButton
+                android:id="@+id/ImageButton0010"            
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+                 <ImageButton
+                android:id="@+id/ImageButton0011"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+                 <ImageButton
+                android:id="@+id/ImageButton0012"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+                 </LinearLayout>
+                 <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_weight="1"       
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">     
+            <ImageButton
+                android:id="@+id/ImageButton0013"                
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+            <ImageButton
+                android:id="@+id/ImageButton0014"            
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+                 <ImageButton
+                android:id="@+id/ImageButton0015"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton> 
+                 <ImageButton
+                android:id="@+id/ImageButton0016"                  
+                android:scaleType="fitXY"
+                android:padding="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_weight="1" ></ImageButton>  
+                 </LinearLayout>
+    <LinearLayout
+			android:id="@+id/AdLinearLayout1"
+            android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+        android:orientation="horizontal" />
+    </LinearLayout>
